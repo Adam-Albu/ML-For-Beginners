@@ -310,6 +310,10 @@ paket-files/
 __pycache__/
 *.pyc
 
+# Python
+venv/
+.venv/
+
 # Cake - Uncomment if you are using it
 # tools/**
 # !tools/packages.config
@@ -355,3 +359,5 @@ MigrationBackup/
 
 # Mac-specific
 .DS_Store
+
+.idea/
